@@ -22,14 +22,16 @@ End the program
 #swapping of two variables
 #Developer Name:Jeshwanth kumar
 #Reference Number:23002519
-n1=input()
-n2=input()
-temp=n1
-n1=n2
-n2=temp
-print(n1,n2)
+a=input()
+b=input()
+c=a
+a=b
+b=c
+print("Swapped values are:",a,b)
 ```
-## OUTPUT 
+## OUTPUT:
+![image](https://github.com/Jeshwanthkumarpayyavula/Swapping-two-values/assets/145742402/3c5814bc-bec6-4ca7-ad6e-d78fc4783dab)
+
 
 
 
